@@ -11,4 +11,4 @@ def factorial(n):
             n -= 1
         return toReturn
 
-print(factorial(5)) # This uses recursion
+print(factorial(5))
